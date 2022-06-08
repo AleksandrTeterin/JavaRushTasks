@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f003ed47-8cab-4ab2-bcf3-219b7912e662" name="Minesweeper" comment="Minesweeper">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/teterin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/1.JavaSyntax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0805/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0805/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0814/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0814/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0817/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0817/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0818/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0818/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0819/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0819/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0820/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0821/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0821/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0822/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0822/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0823/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0823/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0824/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0824/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0825/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0825/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0827/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0827/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0829/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0829/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0830/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0830/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0901/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0901/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0902/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0902/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0903/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0903/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0904/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0904/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0905/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0905/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0906/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0906/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0907/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0907/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0908/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0908/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0909/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0909/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0910/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0910/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0911/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0911/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0912/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0912/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0913/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0913/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0914/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0914/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0915/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0915/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0916/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0916/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0917/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0917/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0918/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0918/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0919/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0919/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0920/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0920/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0921/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0921/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0922/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0922/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0923/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0924/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0924/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0925/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0925/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0927/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0927/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0928/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0929/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0929/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0930/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1001/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1001/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1002/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1003/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1003/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1004/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1004/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1005/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1005/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1006/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1006/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1007/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1007/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1008/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1008/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1009/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1009/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1010/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1010/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1011/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1011/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1012/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1012/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1013/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1013/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1014/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1014/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1015/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1015/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1016/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1016/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1017/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1017/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1018/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1018/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1020/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1020/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/2.JavaCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.JavaCore/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/3.JavaMultithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/4.JavaCollections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/5.OnlineInternship.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.OnlineInternship/src/Internship.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/8.Games.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Instruction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaRushTasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/desktop-game-engine.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0805/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0805/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0814/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0814/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0817/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0817/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0818/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0818/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Solution$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Solution$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Solution$Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0821/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0821/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0822/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0822/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0823/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0823/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0824/Solution$Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0824/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0824/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0825/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0825/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0826/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0826/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0827/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0827/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0828/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0828/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0829/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0829/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0830/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0830/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0901/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0901/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0902/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0902/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0903/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0903/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0904/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0904/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0905/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0905/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0906/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0906/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0907/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0907/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0908/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0908/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0909/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0909/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0910/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0910/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0911/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0911/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0912/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0912/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0913/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0913/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Exception1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Exception2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Exception3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0915/Solution$StatelessBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0915/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0915/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0916/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0916/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0917/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0917/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0919/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0919/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0920/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0920/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0921/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0921/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0922/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0922/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0923/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0923/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Grandmother.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$LittleRedRidingHood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Patty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$StoryItem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Wolf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Woodman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0925/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0925/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0926/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0926/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0927/Solution$Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0927/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0927/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0928/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0928/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0929/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0929/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0930/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0930/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1001/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1001/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1002/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1002/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1003/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1003/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1004/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1004/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1005/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1005/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1006/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1006/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1007/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1007/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1008/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1008/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1009/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1009/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1010/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1010/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1011/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1011/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1012/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1012/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1013/Solution$Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1013/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1013/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1014/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1014/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1015/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1015/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1016/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1016/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1017/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1017/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1018/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1018/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1019/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1019/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1020/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1020/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/2.JavaCore/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/3.JavaMultithreading/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/4.JavaCollections/Quest.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/5.OnlineInternship/Internship.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/MinesweeperGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaRushTasks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>internship</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="D:/giflib-hibernate" value="2933508518815" />
+        <entry key="D:/todotoday" value="1466755205829" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/5.JavaInternship/src/Internship.info" />
+        <option value="$PROJECT_DIR$/JavaRushPlugin.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectId" id="28mnbuW8x1Urgg2Agp20rhOdlLE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaRushTasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaRushTasks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration name="MinesweeperGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.games.minesweeper.MinesweeperGame" />
+      <module name="8.Games" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.games.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MinesweeperGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="" name="Default" comment="" />
+      <changelist id="f003ed47-8cab-4ab2-bcf3-219b7912e662" name="Minesweeper" comment="" />
+      <created>1477641354970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477641354970</updated>
+      <workItem from="1477641356271" duration="140000" />
+      <workItem from="1477661127283" duration="4000" />
+      <workItem from="1479892128348" duration="345000" />
+      <workItem from="1480667976301" duration="11000" />
+      <workItem from="1480667993737" duration="5000" />
+      <workItem from="1484838281338" duration="128000" />
+      <workItem from="1484897111171" duration="42000" />
+      <workItem from="1485161981498" duration="29000" />
+      <workItem from="1485162014696" duration="83000" />
+      <workItem from="1485177835943" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="887000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23187633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0830/Solution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Solution.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0917/Solution.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Solution.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0926/Solution.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1006/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1007/Solution.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1012/Solution.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="20" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="22" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="count" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1652449109075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task08.task0830.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__4_.ic" NAME="Solution (4) Coverage Results" MODIFIED="1654082251954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task09.task0929.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Instruction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quest#2/Quest#2.iml" />
+    <entry file="file://$PROJECT_DIR$/JavaRushTasks.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quest#2/Quest#2.iml" />
+    <entry file="file://$PROJECT_DIR$/JavaRushTasks.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Quest#2/Quest#2.iml" />
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRushPluginDescription.png" />
+    <entry file="file://$PROJECT_DIR$/3.JavaMultithreading/src/Quest.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.JavaCore/src/Quest.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.JavaSyntax/src/Quest.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/Quest.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.OnlineInternship/src/Internship.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="646" column="54" lean-forward="false" selection-start-line="646" selection-start-column="44" selection-end-line="646" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRushTasks.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaRushPlugin.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instruction.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
