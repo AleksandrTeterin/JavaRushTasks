@@ -2608,3 +2608,40 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-06-09 13:53:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-06-09 13:53:45 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2022-06-09 13:53:45 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:00:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-09 14:00:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-06-09 14:04:20 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-06-09 14:04:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:22 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 14:04:23 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-06-09 16:47:16 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-06-09 16:47:16 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-06-09 16:47:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-06-09 16:47:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-06-09 16:47:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-06-09 16:47:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-06-09 16:47:16 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-06-09 16:47:16 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-06-09 16:47:17 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-06-09 16:47:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-09 16:47:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-06-09 16:47:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-09 16:47:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-06-09 16:47:27 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(77) - File created :E:/Distrib/Java/project/JavaRushTasks/8.Games/src/com/javarush/games/snake
+2022-06-09 16:56:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-09 16:56:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 16:56:37 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-06-09 16:57:24 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-06-09 16:57:24 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-06-09 16:57:26 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-06-09 16:57:26 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
