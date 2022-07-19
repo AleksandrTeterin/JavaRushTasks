@@ -3112,3 +3112,5 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-07-20 00:00:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-07-20 00:14:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-07-20 00:14:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:19:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:19:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
