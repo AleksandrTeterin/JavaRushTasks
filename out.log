@@ -3066,3 +3066,49 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-06-15 01:13:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-06-15 01:13:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2022-06-15 01:13:23 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-07-19 23:39:15 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-07-19 23:39:15 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-07-19 23:39:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:39:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:39:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:39:16 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-07-19 23:39:16 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-07-19 23:39:16 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-07-19 23:39:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-19 23:39:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-07-19 23:39:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-19 23:39:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-07-19 23:58:38 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-07-19 23:58:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-19 23:58:38 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-19 23:58:39 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-07-19 23:59:29 INFO  PluginProjectService.<init>(33) - PluginProjectService for JavaRushTasks initiated.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-19 23:59:33 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-07-19 23:59:33 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-07-19 23:59:33 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-07-19 23:59:33 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-07-19 23:59:33 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-07-19 23:59:33 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-07-19 23:59:33 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-07-19 23:59:33 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-07-20 00:00:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:00:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:00:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-20 00:00:12 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-20 00:00:12 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-07-20 00:00:12 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-07-20 00:00:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:00:59 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:14:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:14:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
