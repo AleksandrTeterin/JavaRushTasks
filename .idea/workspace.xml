@@ -6,100 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="3e6fd028-ec0a-4722-9165-2b768cd1e4e0" name="SnakeGame" comment="SnakeGame">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/GameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Snake.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/Snake.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/SnakeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/snake/SnakeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out.log" beforeDir="false" afterPath="$PROJECT_DIR$/out.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0805/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0814/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0817/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0818/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Solution$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0819/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Solution$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Solution$Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0820/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0821/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0822/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0823/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0824/Solution$Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0824/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0825/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0826/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0827/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0828/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0829/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task08/task0830/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0901/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0902/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0903/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0904/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0905/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0906/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0907/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0908/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0909/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0910/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0911/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0912/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0913/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Exception1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Exception2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Exception3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0914/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0915/Solution$StatelessBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0915/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0916/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0917/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution$MyException4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0918/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0919/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0920/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0921/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0922/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0923/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Grandmother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$LittleRedRidingHood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Patty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$StoryItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Wolf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution$Woodman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0924/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0925/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0926/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0927/Solution$Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0927/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0928/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0929/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task09/task0930/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1001/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1002/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1003/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1004/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1005/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1006/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1007/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1008/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1009/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1010/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1011/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1012/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1013/Solution$Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1013/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1014/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1015/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1016/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1017/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1018/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1019/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.JavaSyntax/com/javarush/task/task10/task1020/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/GameObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/8.Games/com/javarush/games/minesweeper/MinesweeperGame.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -569,7 +480,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654790012829</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="SnakeGame">
+      <created>1658265426048</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658265426048</updated>
+    </task>
+    <task id="LOCAL-00006" summary="SnakeGame">
+      <created>1658265581576</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658265581576</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SnakeGame">
+      <created>1658265605061</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658265605061</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">

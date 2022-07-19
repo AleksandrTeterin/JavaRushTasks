@@ -3114,3 +3114,22 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-07-20 00:14:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-07-20 00:19:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-07-20 00:19:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:25:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:25:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-07-20 00:29:23 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-07-20 00:29:23 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2022-07-20 00:29:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-20 00:29:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-20 00:29:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-20 00:29:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-07-20 00:29:23 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-07-20 00:29:23 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2022-07-20 00:33:06 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-07-20 00:33:06 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 3.57 ----------
+
+2022-07-20 00:33:06 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-07-20 00:33:07 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-07-20 00:33:07 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-07-20 00:33:07 INFO  ApacheHttpClient.startGA(36) - GAService started.

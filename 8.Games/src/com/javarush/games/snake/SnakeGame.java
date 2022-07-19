@@ -1,6 +1,6 @@
 package com.javarush.games.snake;
 
-import com.javarush.engine.cell.*;
+import com.javarush.engine.cell.Game.*;
 
 public class SnakeGame extends Game {
 
@@ -9,6 +9,8 @@ public class SnakeGame extends Game {
 
     private Snake snake;
 
+    private int turnDelay;
+
     @Override
     public void initialize() {
         setScreenSize(WIDTH, HEIGHT);
@@ -16,7 +18,7 @@ public class SnakeGame extends Game {
     }
 
     private void createGame() {
-        int turnDelay = 300;
+        turnDelay = 300;
         setTurnTimer(turnDelay);
         snake = new Snake(WIDTH / 2, HEIGHT / 2);
         drawScene();
