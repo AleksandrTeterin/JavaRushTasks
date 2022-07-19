@@ -2,39 +2,46 @@ package com.javarush.games.snake;
 
 import com.javarush.engine.cell.*;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Snake {
 
-    private static final String HEAD_SIGN = "\uD83D\uDC7E";
-    private static final String BODY_SIGN = "\u26AB";
+    private final static String HEAD_SIGN = "\uD83D\uDC7E";
+    private final static String BODY_SIGN = "\u26AB";
 
-    private List<GameObject> snakeParts = new ArrayList<GameObject>();
-
+    private List<GameObject> snakeParts = new ArrayList<>();
     public boolean isAlive = true;
     private Direction direction = Direction.LEFT;
 
-
     public Snake(int x, int y) {
         snakeParts.add(new GameObject(x, y));
-        snakeParts.add(new GameObject(x+1, y));
-        snakeParts.add(new GameObject(x+2, y));
+        snakeParts.add(new GameObject(x + 1, y));
+        snakeParts.add(new GameObject(x + 2, y));
     }
 
-    public void draw(Game game){
-        for (int i=0; i<snakeParts.size(); i++){
-            GameObject curSnakePart = snakeParts.get(i);
-            if(i==0) game.setCellValueEx(curSnakePart.x, curSnakePart.y, Color.NONE, HEAD_SIGN, isAlive ? Color.GREEN : Color.RED, 75);
-            else game.setCellValueEx(curSnakePart.x, curSnakePart.y, Color.NONE, BODY_SIGN, isAlive ? Color.GREEN : Color.RED, 75);
+    public void draw(Game game) {
+        Color color = isAlive ? Color.BLACK : Color.RED;
+
+        for (int i = 0; i < snakeParts.size(); i++) {
+            GameObject part = snakeParts.get(i);
+            String sign = (i != 0) ? BODY_SIGN : HEAD_SIGN;
+            game.setCellValueEx(part.x, part.y, Color.NONE, sign, color, 75);
         }
     }
 
-    public void setDirection(Direction dir){
-        this.direction = dir;
-    }
+    public void move() {
+        GameObject newHead = createNewHead();
+        if (newHead.x >= SnakeGame.WIDTH
+                || newHead.x < 0
+                || newHead.y >= SnakeGame.HEIGHT
+                || newHead.y < 0) {
+            isAlive = false;
+            return;
+        }
 
-    public void move(){
-
+        snakeParts.add(0, newHead);
+        removeTail();
     }
 
     public GameObject createNewHead() {
@@ -48,9 +55,13 @@ public class Snake {
         } else {
             return new GameObject(oldHead.x, oldHead.y + 1);
         }
-     }
+    }
 
-    public void removeTail(){
-        snakeParts.remove(snakeParts.size()-1);
+    public void removeTail() {
+        snakeParts.remove(snakeParts.size() - 1);
+    }
+
+    public void setDirection(Direction direction) {
+        this.direction = direction;
     }
 }
